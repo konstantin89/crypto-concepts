@@ -1,3 +1,9 @@
+# Certificates verification
+
+Here we have example of certificate chains verification.  
+We use 3 certificates:  
+Root CA -> Intermediate CA -> Server certificate
+
 ## Verify intermediate CA with root CA 
 
 Here we generate Root CA and intermediate CA.  
